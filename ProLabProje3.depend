@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577533956 source:c:\users\guray\desktop\prolabproje3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577647912 source:c:\users\guray\desktop\ortak\dosyalar\programlama lab 1 proje 3\prolabproje3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
